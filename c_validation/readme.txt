@@ -1,0 +1,1 @@
+We used Mask Instant Comparator (a plugin of ImageJ) to compare the segmentation masks. The results were stored in "glia_Mask comparison Object with IoU thresholds.csv" and "neuron_Mask comparison Object with IoU thresholds.csv".

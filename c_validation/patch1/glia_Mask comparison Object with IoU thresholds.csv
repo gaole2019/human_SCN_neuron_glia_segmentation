@@ -1,0 +1,20 @@
+Truth image,Test image,Slice number,Truth objects,Test objects,Object IoU threshold,Object TP,Object FP,Object FN,Object Precision,Object Recall/Sensitivity,Object Jaccard Index,Object F-measure
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.100,39,6,6,0.867,0.867,0.765,0.867
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.150,39,6,6,0.867,0.867,0.765,0.867
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.200,39,6,6,0.867,0.867,0.765,0.867
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.250,39,6,6,0.867,0.867,0.765,0.867
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.300,39,6,6,0.867,0.867,0.765,0.867
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.350,39,6,6,0.867,0.867,0.765,0.867
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.400,37,8,8,0.822,0.822,0.698,0.822
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.450,36,9,9,0.800,0.800,0.667,0.800
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.500,35,10,10,0.778,0.778,0.636,0.778
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.550,31,14,14,0.689,0.689,0.525,0.689
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.600,28,17,17,0.622,0.622,0.452,0.622
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.650,21,24,24,0.467,0.467,0.304,0.467
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.700,14,31,31,0.311,0.311,0.184,0.311
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.750,7,38,38,0.156,0.156,0.084,0.156
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.800,3,42,42,0.067,0.067,0.034,0.067
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.850,2,43,43,0.044,0.044,0.023,0.044
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.900,2,43,43,0.044,0.044,0.023,0.044
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,0.950,0,45,45,0.000,0.000,0.000,NaN
+sample2_139-64_masks_glia_GT.tif,sample2_139-64_masks_glia_predicted.tif,1,50,51,1.000,0,45,45,0.000,0.000,0.000,NaN

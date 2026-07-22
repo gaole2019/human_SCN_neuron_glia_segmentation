@@ -1,0 +1,20 @@
+Truth image,Test image,Slice number,Truth objects,Test objects,Object IoU threshold,Object TP,Object FP,Object FN,Object Precision,Object Recall/Sensitivity,Object Jaccard Index,Object F-measure
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.100,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.150,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.200,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.250,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.300,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.350,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.400,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.450,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.500,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.550,7,0,1,1.000,0.875,0.875,0.933
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.600,6,1,2,0.857,0.750,0.667,0.800
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.650,6,1,2,0.857,0.750,0.667,0.800
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.700,5,2,3,0.714,0.625,0.500,0.667
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.750,3,4,5,0.429,0.375,0.250,0.400
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.800,1,6,7,0.143,0.125,0.071,0.133
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.850,1,6,7,0.143,0.125,0.071,0.133
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.900,0,7,8,0.000,0.000,0.000,NaN
+neuron_GT.tif,neuron_predicted.tif,1,8,7,0.950,0,7,8,0.000,0.000,0.000,NaN
+neuron_GT.tif,neuron_predicted.tif,1,8,7,1.000,0,7,8,0.000,0.000,0.000,NaN

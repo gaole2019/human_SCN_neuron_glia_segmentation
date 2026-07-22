@@ -1,0 +1,20 @@
+Truth image,Test image,Slice number,Truth objects,Test objects,Object IoU threshold,Object TP,Object FP,Object FN,Object Precision,Object Recall/Sensitivity,Object Jaccard Index,Object F-measure
+glia_GT.tif,glia_predicted.tif,1,50,50,0.100,40,4,8,0.909,0.833,0.769,0.870
+glia_GT.tif,glia_predicted.tif,1,50,50,0.150,40,4,8,0.909,0.833,0.769,0.870
+glia_GT.tif,glia_predicted.tif,1,50,50,0.200,40,4,8,0.909,0.833,0.769,0.870
+glia_GT.tif,glia_predicted.tif,1,50,50,0.250,40,4,8,0.909,0.833,0.769,0.870
+glia_GT.tif,glia_predicted.tif,1,50,50,0.300,40,4,8,0.909,0.833,0.769,0.870
+glia_GT.tif,glia_predicted.tif,1,50,50,0.350,36,8,12,0.818,0.750,0.643,0.783
+glia_GT.tif,glia_predicted.tif,1,50,50,0.400,31,13,17,0.705,0.646,0.508,0.674
+glia_GT.tif,glia_predicted.tif,1,50,50,0.450,31,13,17,0.705,0.646,0.508,0.674
+glia_GT.tif,glia_predicted.tif,1,50,50,0.500,27,17,21,0.614,0.562,0.415,0.587
+glia_GT.tif,glia_predicted.tif,1,50,50,0.550,25,19,23,0.568,0.521,0.373,0.543
+glia_GT.tif,glia_predicted.tif,1,50,50,0.600,17,27,31,0.386,0.354,0.227,0.370
+glia_GT.tif,glia_predicted.tif,1,50,50,0.650,8,36,40,0.182,0.167,0.095,0.174
+glia_GT.tif,glia_predicted.tif,1,50,50,0.700,5,39,43,0.114,0.104,0.057,0.109
+glia_GT.tif,glia_predicted.tif,1,50,50,0.750,0,44,48,0.000,0.000,0.000,NaN
+glia_GT.tif,glia_predicted.tif,1,50,50,0.800,0,44,48,0.000,0.000,0.000,NaN
+glia_GT.tif,glia_predicted.tif,1,50,50,0.850,0,44,48,0.000,0.000,0.000,NaN
+glia_GT.tif,glia_predicted.tif,1,50,50,0.900,0,44,48,0.000,0.000,0.000,NaN
+glia_GT.tif,glia_predicted.tif,1,50,50,0.950,0,44,48,0.000,0.000,0.000,NaN
+glia_GT.tif,glia_predicted.tif,1,50,50,1.000,0,44,48,0.000,0.000,0.000,NaN
